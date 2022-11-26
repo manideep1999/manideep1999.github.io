@@ -1,7 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/gatsby-github-pages',
+  // pathPrefix: '/gatsby-github-pages',
   siteMetadata: {
     title: 'Manideep Cherukuri',
     description: 'Manideep is an engineer who loves building intelligent systems.',
