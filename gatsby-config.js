@@ -5,9 +5,9 @@ module.exports = {
   siteMetadata: {
     title: 'Manideep Cherukuri',
     description: 'Manideep is an engineer who loves building intelligent systems.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://manideep2705.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@manideep2705',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'Manideep Cherukuri',
+        short_name: 'Manideep Cherukuri',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
