@@ -23,15 +23,14 @@
 
 ## 🚨 Forking this repo (please read!)
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+I've always wanted to have a personal website where I could efficiently structure my work. After spending a day or two looking via the internet, I found Brittany Chiang's code, which was incredibly simple. I started by spending two days working through the Gatsby tutorial because I wasn't that proficient with the most recent web development tools. This helped me quickly catch up with the language's principles.
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+After that, I looked over the code again and making the necessary changes. It was really a straightforward process, especially because her code was well-commented. Changing the logo usingUsing Scalable Vector Graphics to change the logos presented some challenges. After learning about it for a while, it was not that difficult.
 
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
-
+Once more, many thanks to Brittany for her permission. If you fork the repository as well, kindly give credit to her.
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Yes, you can fork this repo. Please giveproper credit to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
 ## 🛠 Installation & Set Up
 
