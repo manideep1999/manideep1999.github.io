@@ -1,6 +1,9 @@
 <h1 align="center">
   Manideep Cherukuri
 </h1>
+<p align="center">
+  The first iteration of <a href="https://manideep1999.github.io" target="_blank">manideep1999.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. All credit goes to Brittany Chiang for coding up the fourth iteration of her website, which was the base for mine.
+</p>
 
 ![demo](https://raw.githubusercontent.com/manideep1999/manideep1999.github.io/source/src/images/MyWebsite.png)
 
