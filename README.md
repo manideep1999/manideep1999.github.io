@@ -6,11 +6,12 @@
 
 ## 🚨 Forking this repo (please read!)
 
-I've always wanted to have a personal website where I could efficiently structure my work. After spending a day or two looking via the internet, I found Brittany Chiang's code, which was incredibly simple. I started by spending two days working through the Gatsby tutorial because I wasn't that proficient with the most recent web development tools. This helped me quickly catch up with the language's principles.
+I've always wanted to have a personal website where I could efficiently structure my work and experiences. After spending a day or two looking via the internet, I found Brittany's code, which was incredibly simple. I started by spending two days working through the Gatsby tutorial because I wasn't that good with the most recent web development tools. This helped me quickly catch up with the language.
 
-After that, I looked over the code again and making the necessary changes. It was really a straightforward process, especially because her code was well-commented. Changing the logo usingUsing Scalable Vector Graphics to change the logos presented some challenges. After learning about it for a while, it was not that difficult.
+After that, I looked over the code again and made the necessary changes. It was really a straight forward process, especially because her code was well-commented. Changing the logo using Scalable Vector Graphics was tricky. After learning about it for a while, it was not that difficult.
 
 Once more, many thanks to Brittany for her permission. If you fork the repository as well, kindly give credit to her.
+
 ### TL;DR
 
 Yes, you can fork this repo. Please give proper credit to [brittanychiang.com](https://brittanychiang.com). Thanks!
