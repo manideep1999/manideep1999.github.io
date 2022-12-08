@@ -1,37 +1,23 @@
-<div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
-</div>
 <h1 align="center">
-  brittanychiang.com - v4
+  Manideep Cherukuri
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
-</p>
-<p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
-  </a>
+  The first iteration of <a href="https://manideep1999.github.io" target="_blank">manideep1999.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. All credit goes to Brittany Chiang for coding up the fourth iteration of her website, which was the base for mine.
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/manideep1999/manideep1999.github.io/source/src/images/MyWebsite.png)
 
 ## 🚨 Forking this repo (please read!)
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+I've always wanted to have a personal website where I could efficiently structure my work and experiences. After spending a day or two looking via the internet, I found Brittany's code, which was incredibly simple. I started by spending two days working through the Gatsby tutorial because I wasn't that good with the most recent web development tools. This helped me quickly catch up with the language.
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+After that, I looked over the code again and made the necessary changes. It was really a straight forward process, especially because her code was well-commented. Changing the logo using Scalable Vector Graphics was tricky. After learning about it for a while, it was not that difficult.
 
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+Once more, many thanks to Brittany for her permission. If you fork the repository as well, kindly give credit to her.
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Yes, you can fork this repo. Please give proper credit to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
 ## 🛠 Installation & Set Up
 
@@ -85,9 +71,3 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
-
-# gatsby-github-pages
-
-# manideep2705.github.io
-
-# manideep2705.github.io

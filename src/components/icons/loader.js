@@ -28,8 +28,34 @@ import React from 'react';
 
 // export default IconLoader;
 
+//my try for the M word...not working...try later
+// const IconLoader = () => (
+//   <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+//     <title>Loader Logo</title>
+//     <g>
+//       <g id="B" transform="translate(11.000000, 5.000000)">
+//         <path
+//           d="M0.346591 0.363636V-0.636364H-0.653409V0.363636H0.346591ZM4.34091 0.363636L5.26635 -0.0152517L5.01206 -0.636364H4.34091V0.363636ZM13.733 23.304L12.8075 23.6829L13.0618 24.304H13.733V23.304ZM14.0568 23.304V24.304H14.728L14.9823 23.6829L14.0568 23.304ZM23.4489 0.363636V-0.636364H22.7777L22.5234 -0.0152516L23.4489 0.363636ZM27.4432 0.363636H28.4432V-0.636364H27.4432V0.363636ZM27.4432 28V29H28.4432V28H27.4432ZM24.3125 28H23.3125V29H24.3125V28ZM24.3125 7.00284H25.3125V6.00284H24.3125V7.00284ZM24.0426 7.00284V6.00284H23.3726L23.1178 6.62245L24.0426 7.00284ZM15.4062 28V29H16.0762L16.3311 28.3804L15.4062 28ZM12.3835 28L11.4587 28.3804L11.7135 29H12.3835V28ZM3.74716 7.00284L4.67199 6.62245L4.41713 6.00284H3.74716V7.00284ZM3.47727 7.00284V6.00284H2.47727V7.00284H3.47727ZM3.47727 28V29H4.47727V28H3.47727ZM0.346591 28H-0.653409V29H0.346591V28ZM0.346591 1.36364H4.34091V-0.636364H0.346591V1.36364ZM3.41547 0.742523L12.8075 23.6829L14.6584 22.9251L5.26635 -0.0152517L3.41547 0.742523ZM13.733 24.304H14.0568V22.304H13.733V24.304ZM14.9823 23.6829L24.3743 0.742523L22.5234 -0.0152516L13.1314 22.9251L14.9823 23.6829ZM23.4489 1.36364H27.4432V-0.636364H23.4489V1.36364ZM26.4432 0.363636V28H28.4432V0.363636H26.4432ZM27.4432 27H24.3125V29H27.4432V27ZM25.3125 28V7.00284H23.3125V28H25.3125ZM24.3125 6.00284H24.0426V8.00284H24.3125V6.00284ZM23.1178 6.62245L14.4814 27.6196L16.3311 28.3804L24.9674 7.38323L23.1178 6.62245ZM15.4062 27H12.3835V29H15.4062V27ZM13.3083 27.6196L4.67199 6.62245L2.82233 7.38323L11.4587 28.3804L13.3083 27.6196ZM3.74716 6.00284H3.47727V8.00284H3.74716V6.00284ZM2.47727 7.00284V28H4.47727V7.00284H2.47727ZM3.47727 27H0.346591V29H3.47727V27ZM1.34659 28V0.363636H-0.653409V28H1.34659Z"
+//           fill="currentColor"
+//         />
+//       </g>
+//       <path
+//         stroke="currentColor"
+//         strokeWidth="5"
+//         strokeLinecap="round"
+//         strokeLinejoin="round"
+//         d="M 50, 5
+//                   L 11, 27
+//                   L 11, 72
+//                   L 50, 95
+//                   L 89, 73
+//                   L 89, 28 z"
+//       />
+//     </g>
+//   </svg>
+// );
 // import * as React from "react";
-const IconLoader = (props) => (
+const IconLoader = props => (
   <svg
     width={1009}
     height={1009}
@@ -37,16 +63,10 @@ const IconLoader = (props) => (
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
     xmlnsXlink="http://www.w3.org/1999/xlink"
-    {...props}
-  >
+    {...props}>
     <rect width={1009} height={1009} fill="url(#pattern0)" />
     <defs>
-      <pattern
-        id="pattern0"
-        patternContentUnits="objectBoundingBox"
-        width={1}
-        height={1}
-      >
+      <pattern id="pattern0" patternContentUnits="objectBoundingBox" width={1} height={1}>
         <use xlinkHref="#image0_1_3" transform="scale(0.00099108)" />
       </pattern>
       <image

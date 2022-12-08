@@ -10,5 +10,7 @@ tech:
   - TensorFlow
 ---
 
-Implemented and compared the performances of various Reinforcement Learning Techniques like Q-learning, DQN, etc on various Atari Games like breakout, pong, etc
+Implemented and compared the performances of various Reinforcement Learning Techniques like Q-learning, DQN, etc on various Atari Games like breakout, pong, etc.
+
+<!-- Also, transferring the knowledge from parent game to child game. -->
  <!-- Later, optimized the network to perform better than than initial one.  -->

@@ -10,4 +10,4 @@ tech:
   - Controller Area Network
 ---
 
-A custom Battery Management System was designed and developed end to end. This involves the pcb designing, cell data logging and telemetry. The system/cells data is wirelessly transferred using a CAN protocol to a PC using BeagleBone black processor where a real time GUI using GTK+ dashboard is created to display all the cell statistics and their criticality statuses. 
+A custom Battery Management System was designed and developed end to end. This involves the pcb designing, cell data logging and telemetry. The system/cells data is wirelessly transferred using a CAN protocol to a PC using BeagleBone black processor where a real time GUI using GTK+ dashboard is created to display all the cell statistics and their criticality statuses. The work was later extended to predict the State of Charge (SoC) with the help of neural networks.

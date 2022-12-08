@@ -9,11 +9,9 @@ tech:
   - OpenCV
   - Java
   - MySQL
-
 ---
 
-Developed and integrated the Candidate Exam Procturing System with the Candidate Test Player. 
-
+Developed and integrated the Candidate Exam Procturing System with the Candidate Test Player using Computer vision techniques to monitor the live candidates.
 
 <!-- ---
 date: '1'
